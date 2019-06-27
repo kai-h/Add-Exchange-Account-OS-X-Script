@@ -137,4 +137,4 @@ echo '<?xml version="1.0" encoding="UTF-8"?>
 /usr/bin/profiles -I -F "$TMP_PROFILE"
 
 # Securely remove temporary profile
-/usr/bin/srm "$TMP_PROFILE"
+/usr/bin/rm _ "$TMP_PROFILE"
