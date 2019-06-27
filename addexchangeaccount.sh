@@ -18,7 +18,7 @@
 ### Required Configuration ###
 
 # Organisation's domain name (e.g. errorfreeit.com.au)
-DOMAIN="errorfreeit.com.au"
+DOMAIN="automatica.com.au"
 
 # Exchange server address
 EXCHANGE_HOST="outlook.office365.com"
