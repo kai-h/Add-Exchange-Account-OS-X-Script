@@ -4,7 +4,7 @@
 # Version 1.0 (10/11/2015)
 # Copyright Michael Page
 
-# Script blog post: http://errorfreeit.com.au/blog/2015/11/10/automating-exchange-setup-without-mdm
+# Script blog post: https://techion.com.au/blog/2015/11/10/automating-exchange-setup-without-mdm
 
 # This script automates the setup of an Exchange account on OS X.
 # This includes setup for Apple Mail, Contacts, Calendars, Reminders and Notes.
